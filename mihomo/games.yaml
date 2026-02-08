@@ -210,3 +210,6 @@ payload:
   # --- Лаунчеры ---
   - PROCESS-NAME,GOGGalaxy.exe
   - PROCESS-NAME,playnite.exe
+
+  # --- Добавленно вручную ---
+  - PROCESS-NAME,Raft.exe
