@@ -42,9 +42,6 @@ payload:
   # FragPunk
   - PROCESS-NAME,FragPunk.exe
 
-  # Dead by Daylight
-  - PROCESS-NAME-REGEX,DeadByDaylight.*
-
   # Dota 2
   - PROCESS-NAME,dota2.exe
 
@@ -134,9 +131,6 @@ payload:
   - PROCESS-NAME,Overwatch.exe
   - PROCESS-NAME,Battle.net.exe
   - PROCESS-NAME,BlizzardBrowser.exe
-
-  # Phasmophobia
-  - PROCESS-NAME,Phasmophobia.exe
 
   # HoYoverse
   - PROCESS-NAME,GenshinImpact.exe
